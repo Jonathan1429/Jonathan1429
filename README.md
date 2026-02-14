@@ -1,16 +1,16 @@
 <h1 align="center">Hola, soy Jonathan EV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--<h1 align="center">José Jonathan Escobar Vázquez</h1>-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Android+Developer+especializado+en+Kotlin;Arquitectura+limpia+y+código+mantenible;Fuerte+enfoque+en+Testing+Unitario;Aplicaciones+estructuradas+y+escalables;Ingeniero+en+Sistemas+Computacionales;Resolviendo+retos+técnicos+con+claridad">
-  </a>
 </p>
 
 <div>
-  <img align="right" 
+  <!--<img align="right" 
        src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
        width="250px" 
-       style="margin-top: 10px;" />
+       style="margin-top: 10px;" />-->
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>       
 
   <h2>👨‍💻 Sobre mí</h2>
 
@@ -41,7 +41,7 @@
 ## 🛠 Stack Tecnológico
 
 ### 💻 Lenguaje
-<a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
 
 ### 📱 Desarrollo Android
 - XML
@@ -67,8 +67,7 @@
 ### 🛠 Herramientas
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 
 ---
 
@@ -86,8 +85,8 @@ Aplicación Android desarrollada en Kotlin, estructurada bajo el patrón MVVM y 
 - Implementación de testing unitario en casos de uso
 - Publicada en Google Play Store
 
-[![Github](https://img.shields.io/badge/-Review-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
-[![Google Playstore](https://img.shields.io/badge/-Review-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
+[![Github](https://img.shields.io/badge/-Review-black?style=flat&labelColor=black&logo=github&logoColor=white)]([https://gitstats.me/JoykishanSharma](https://github.com/Jonathan1429/Review))
+[![Google Playstore](https://img.shields.io/badge/-Review-gray?style=flat&logo=Google-Play&logoColor=white)]([https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN](https://play.google.com/store/apps/details?id=com.jonathanev.review&hl=es_MX))
 ---
 
 ## 🧠 Enfoque Profesional
@@ -113,5 +112,5 @@ Aplicación Android desarrollada en Kotlin, estructurada bajo el patrón MVVM y 
 ---
 
 ## 📫 Contacto
-[![Linkedin Badge](https://img.shields.io/badge/-JonathanEV-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Gmail Badge](https://img.shields.io/badge/-JonathanEV-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jona142959@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JonathanEV-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Gmail Badge](https://img.shields.io/badge/-JonathanEV-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jona142959@gmail.com)](mailto:jona142959@gmail.com)
