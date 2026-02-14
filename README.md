@@ -85,8 +85,9 @@ Aplicación Android desarrollada en Kotlin, estructurada bajo el patrón MVVM y 
 - Implementación de testing unitario en casos de uso
 - Publicada en Google Play Store
 
-[![Github](https://img.shields.io/badge/-Review-black?style=flat&labelColor=black&logo=github&logoColor=white)]([https://gitstats.me/JoykishanSharma](https://github.com/Jonathan1429/Review))
-[![Google Playstore](https://img.shields.io/badge/-Review-gray?style=flat&logo=Google-Play&logoColor=white)]([https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN](https://play.google.com/store/apps/details?id=com.jonathanev.review&hl=es_MX))
+[![Github](https://img.shields.io/badge/-Review-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Jonathan1429/Review)
+[![Google Playstore](https://img.shields.io/badge/-Review-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jonathanev.review&hl=es_MX)
+
 ---
 
 ## 🧠 Enfoque Profesional
@@ -99,12 +100,10 @@ Aplicación Android desarrollada en Kotlin, estructurada bajo el patrón MVVM y 
 
 ---
 
-<h1>Certifications! 🏆</h1>
+<h1>Reconocimientos! 🏆</h1>
 <Br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)
-[![Certificado_Programacion Badge](https://img.shields.io/badge/-Certificado%20de%20Programacion-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
 
+[![Certificado_Programacion Badge](https://img.shields.io/badge/-Certificado%20de%20Programacion-blue?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/Jonathan1429/Jonathan1429/blob/main/CCUPTECNM2020-1236-JOS%C3%89%20JONATHAN%20ESCOBAR%20V%C3%81ZQUEZ.pdf)](https://github.com/Jonathan1429/Jonathan1429/blob/main/CCUPTECNM2020-1236-JOS%C3%89%20JONATHAN%20ESCOBAR%20V%C3%81ZQUEZ.pdf)
 ## 📌 Filosofía
 
 > "El esfuerzo vence al talento cuando el talento no se está esforzando."
@@ -112,5 +111,5 @@ Aplicación Android desarrollada en Kotlin, estructurada bajo el patrón MVVM y 
 ---
 
 ## 📫 Contacto
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JonathanEV-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-JonathanEV-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-escobar-5315a0206/)](https://www.linkedin.com/in/jonathan-escobar-5315a0206/)
 [![Gmail Badge](https://img.shields.io/badge/-JonathanEV-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jona142959@gmail.com)](mailto:jona142959@gmail.com)
