@@ -1,17 +1,10 @@
 <h1 align="center">Hola, soy Jonathan EV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--<h1 align="center">José Jonathan Escobar Vázquez</h1>-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Android+Developer+especializado+en+Kotlin;Arquitectura+limpia+y+código+mantenible;Fuerte+enfoque+en+Testing+Unitario;Aplicaciones+estructuradas+y+escalables;Ingeniero+en+Sistemas+Computacionales;Resolviendo+retos+técnicos+con+claridad">
 </p>
 
 <div>
-  <!--<img align="right" 
-       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" 
-       width="250px" 
-       style="margin-top: 10px;" />-->
-
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>       
-
   <h2>👨‍💻 Sobre mí</h2>
 
   <p>
